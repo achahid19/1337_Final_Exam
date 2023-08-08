@@ -6,4 +6,4 @@ For your side, try to get inspired and code with your own logic
 A very good advice is to try to make in place the logic of the exercice, then you can code it by your own and your uniq style.</br>
 `SO LOGIC 1st => CODE 2end`</br>
 # **THE MOST CRUCIAL TIP:** </br>
-`EAT WELL + SLEEP WELL = WORK HARD = SUCCESS`
+`EAT WELL + SLEEP WELL + WORK HARD = SUCCESS`
